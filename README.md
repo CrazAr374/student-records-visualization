@@ -23,7 +23,7 @@ This project is a Python-based CLI application that allows you to manage student
 ## How to Run:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/student-records-visualization.git
+   git clone https://github.com/CrazAr374/student-records-visualization.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -61,7 +61,7 @@ Select this option to exit the program.
 ```
 
 ### Sample Bar Chart:
-![Bar Chart](./sample_bar_chart.png)
+![Bar Chart](https://github.com/CrazAr374/student-records-visualization/blob/main/Screenshot%202024-09-24%20192100.png)
 
 ## Contributing:
 Feel free to fork the repository and submit pull requests.
